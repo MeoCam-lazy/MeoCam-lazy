@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 # Thống kê GitHub của mình
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeoCam-lazy&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeoCam-lazy&layout=compact&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeoCam-lazy&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeoCam-lazy&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MeoCam-lazy&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MeoCam-lazy&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MeoCam-lazy&theme=tokyonight&utcOffset=8)
