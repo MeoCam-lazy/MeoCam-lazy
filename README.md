@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MeoCam-lazy&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MeoCam-lazy&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MeoCam-lazy&theme=tokyonight&utcOffset=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeoCam-lazy&layout=compact&hide_progress=false&theme=radical&langs_count=8)
