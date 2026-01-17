@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Thống kê GitHub của mình
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeoCam-lazy&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeoCam-lazy&layout=compact&theme=radical)
