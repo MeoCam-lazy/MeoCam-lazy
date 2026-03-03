@@ -1,5 +1,4 @@
 ## Hi there 👋
-goal: intern full-stack
 <!--
 **MeoCam-lazy/MeoCam-lazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
